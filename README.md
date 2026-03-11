@@ -23,8 +23,7 @@
           </div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=nakeunS&bg_color=180,00000000,000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakeunS&layout=compact&bg_color=180,00000000,000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gotham&show_icons=true)
     </div>
     
